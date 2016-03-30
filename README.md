@@ -1,8 +1,6 @@
-#Autofac.Extras.DynamicProxy
+#Autofac.Extras.SexyProxy
 
-Interceptor and decorator support for [Autofac](http://autofac.org) via Castle DynamicProxy.
-
-[![Build status](https://ci.appveyor.com/api/projects/status/nx0urssttgc840eo?svg=true)](https://ci.appveyor.com/project/Autofac/autofac-extras-dynamicproxy)
+Interceptor and decorator support for [Autofac](http://autofac.org) via [Sexy-Proxy](https://github.com/kswoll/sexy-proxy).
 
 Please file issues and pull requests for this package in this repository rather than in the Autofac core repo.
 
