@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autofac.Extras.SexyProxy", "src\Autofac.Extras.DynamicProxy\Autofac.Extras.SexyProxy.csproj", "{20325C68-5988-4AEE-954C-2418901AF12E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autofac.Extras.SexyProxy", "src\Autofac.Extras.SexyProxy\Autofac.Extras.SexyProxy.csproj", "{20325C68-5988-4AEE-954C-2418901AF12E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autofac.Extras.SexyProxy.Test", "test\Autofac.Extras.DynamicProxy.Test\Autofac.Extras.SexyProxy.Test.csproj", "{C2F90D43-6146-4414-8423-D5E6F4EB06D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autofac.Extras.SexyProxy.Test", "test\Autofac.Extras.SexyProxy.Test\Autofac.Extras.SexyProxy.Test.csproj", "{C2F90D43-6146-4414-8423-D5E6F4EB06D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autofac.Extras.SexyProxy.Test.SatelliteAssembly", "test\Autofac.Extras.DynamicProxy.Test.SatelliteAssembly\Autofac.Extras.SexyProxy.Test.SatelliteAssembly.csproj", "{758CA972-9F74-4F30-A32B-D579CACDE0B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autofac.Extras.SexyProxy.Test.SatelliteAssembly", "test\Autofac.Extras.SexyProxy.Test.SatelliteAssembly\Autofac.Extras.SexyProxy.Test.SatelliteAssembly.csproj", "{758CA972-9F74-4F30-A32B-D579CACDE0B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
