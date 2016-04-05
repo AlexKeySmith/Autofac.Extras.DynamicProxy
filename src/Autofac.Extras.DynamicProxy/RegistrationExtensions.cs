@@ -34,7 +34,7 @@ using Autofac.Features.Scanning;
 using Castle.DynamicProxy;
 using Castle.DynamicProxy.Internal;
 
-namespace Autofac.Extras.DynamicProxy
+namespace Autofac.Extras.SexyProxy
 {
     /// <summary>
     /// Adds registration syntax to the <see cref="ContainerBuilder"/> type.

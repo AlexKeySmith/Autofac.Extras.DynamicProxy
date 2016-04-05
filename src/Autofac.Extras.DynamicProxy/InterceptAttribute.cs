@@ -28,7 +28,7 @@ using System.Diagnostics.CodeAnalysis;
 using Autofac.Core;
 using Castle.DynamicProxy;
 
-namespace Autofac.Extras.DynamicProxy
+namespace Autofac.Extras.SexyProxy
 {
     /// <summary>
     /// Indicates that a type should be intercepted.

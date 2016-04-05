@@ -7,8 +7,8 @@
     <ProjectGuid>{758CA972-9F74-4F30-A32B-D579CACDE0B1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Autofac.Extras.DynamicProxy.Test.SatelliteAssembly</RootNamespace>
-    <AssemblyName>Autofac.Extras.DynamicProxy.Test.SatelliteAssembly</AssemblyName>
+    <RootNamespace>Autofac.Extras.SexyProxy.Test.SatelliteAssembly</RootNamespace>
+    <AssemblyName>Autofac.Extras.SexyProxy.Test.SatelliteAssembly</AssemblyName>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>..\..\Autofac.snk</AssemblyOriginatorKeyFile>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>

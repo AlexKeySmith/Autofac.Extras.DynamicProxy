@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Autofac.Extras.DynamicProxy {
+namespace Autofac.Extras.SexyProxy {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace Autofac.Extras.DynamicProxy {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Autofac.Extras.DynamicProxy.RegistrationExtensionsResources", typeof(RegistrationExtensionsResources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Autofac.Extras.SexyProxy.RegistrationExtensionsResources", typeof(RegistrationExtensionsResources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

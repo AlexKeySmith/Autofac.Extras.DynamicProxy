@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Runtime.CompilerServices;
-using Autofac.Extras.DynamicProxy.Test.SatelliteAssembly;
+using Autofac.Extras.SexyProxy.Test.SatelliteAssembly;
 using Castle.Core.Internal;
 using Castle.DynamicProxy;
 using Xunit;
 
-namespace Autofac.Extras.DynamicProxy.Test
+namespace Autofac.Extras.SexyProxy.Test
 {
     public class InterfaceInterceptorsFixture
     {

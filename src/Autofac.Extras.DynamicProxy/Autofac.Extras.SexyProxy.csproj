@@ -8,8 +8,8 @@
     <ProjectGuid>{20325C68-5988-4AEE-954C-2418901AF12E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Autofac.Extras.DynamicProxy</RootNamespace>
-    <AssemblyName>Autofac.Extras.DynamicProxy</AssemblyName>
+    <RootNamespace>Autofac.Extras.SexyProxy</RootNamespace>
+    <AssemblyName>Autofac.Extras.SexyProxy</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>..\..\Autofac.snk</AssemblyOriginatorKeyFile>
@@ -29,7 +29,7 @@
     <WarningLevel>4</WarningLevel>
     <CodeAnalysisRuleSet>..\..\Full.ruleset</CodeAnalysisRuleSet>
     <RunCodeAnalysis>true</RunCodeAnalysis>
-    <DocumentationFile>bin\Debug\Autofac.Extras.DynamicProxy.xml</DocumentationFile>
+    <DocumentationFile>bin\Debug\Autofac.Extras.SexyProxy.xml</DocumentationFile>
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -41,7 +41,7 @@
     <WarningLevel>4</WarningLevel>
     <CodeAnalysisRuleSet>..\..\Full.ruleset</CodeAnalysisRuleSet>
     <RunCodeAnalysis>true</RunCodeAnalysis>
-    <DocumentationFile>bin\Release\Autofac.Extras.DynamicProxy.xml</DocumentationFile>
+    <DocumentationFile>bin\Release\Autofac.Extras.SexyProxy.xml</DocumentationFile>
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
@@ -80,7 +80,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Autofac.Extras.DynamicProxy.nuspec" />
+    <None Include="Autofac.Extras.SexyProxy.nuspec" />
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

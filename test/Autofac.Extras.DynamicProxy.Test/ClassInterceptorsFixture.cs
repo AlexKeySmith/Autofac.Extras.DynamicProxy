@@ -1,7 +1,7 @@
 ﻿using Castle.DynamicProxy;
 using Xunit;
 
-namespace Autofac.Extras.DynamicProxy.Test
+namespace Autofac.Extras.SexyProxy.Test
 {
     public class ClassInterceptorsFixture
     {

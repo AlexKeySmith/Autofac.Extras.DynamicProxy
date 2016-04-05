@@ -129,13 +129,13 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Autofac.Extras.DynamicProxy.Test.SatelliteAssembly\Autofac.Extras.DynamicProxy.Test.SatelliteAssembly.csproj">
+    <ProjectReference Include="..\Autofac.Extras.DynamicProxy.Test.SatelliteAssembly\Autofac.Extras.SexyProxy.Test.SatelliteAssembly.csproj">
       <Project>{758ca972-9f74-4f30-a32b-d579cacde0b1}</Project>
-      <Name>Autofac.Extras.DynamicProxy.Test.SatelliteAssembly</Name>
+      <Name>Autofac.Extras.SexyProxy.Test.SatelliteAssembly</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\src\Autofac.Extras.DynamicProxy\Autofac.Extras.DynamicProxy.csproj">
+    <ProjectReference Include="..\..\src\Autofac.Extras.DynamicProxy\Autofac.Extras.SexyProxy.csproj">
       <Project>{20325c68-5988-4aee-954c-2418901af12e}</Project>
-      <Name>Autofac.Extras.DynamicProxy</Name>
+      <Name>Autofac.Extras.SexyProxy</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

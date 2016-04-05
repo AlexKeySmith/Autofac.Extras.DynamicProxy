@@ -1,6 +1,6 @@
 using System;
 
-namespace Autofac.Extras.DynamicProxy.Test.SatelliteAssembly
+namespace Autofac.Extras.SexyProxy.Test.SatelliteAssembly
 {
     public class InterceptablePublicSatellite : IPublicInterfaceSatellite
     {
